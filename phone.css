@@ -1,0 +1,22 @@
+body{
+    /* background-color: red; */
+    margin: 0px;
+    padding: 0px;
+}
+.navlist{
+    flex-direction: column;
+}
+.leftbox{
+    display: flex;
+    flex-direction: column;
+}
+.item{
+    display: flex;
+    flex-direction: column-reverse;
+}
+.contentbox{
+    display: flex;
+}
+.rightbox img{
+    height: 2px;
+}
